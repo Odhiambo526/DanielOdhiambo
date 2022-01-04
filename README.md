@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=odhiambo526&label=Profile%20views&color=0e75b6&style=flat" alt="odhiambo526" /> </p>
 
-- 🌱 I’m currently learning **Reactjs from Scrimba**
+- 🌱 I’m currently re-learning **Reactjs from Scrimba**
 
 - 👨‍💻 All of my projects are available at [odhis.com](odhis.com)
 
 - 📝 I regularly write articles on [https://hashnode.com/@Daniel526](https://hashnode.com/@Daniel526)
 
-- 💬 Ask me about **React, Blockchain and Cryptocurrency**
+- 💬 Ask me about **React, JavaScript, Blockchain and Cryptocurrency**
 
 - 📫 How to reach me **odhiambod526@gmail.com**
 
